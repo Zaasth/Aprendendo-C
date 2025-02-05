@@ -1,11 +1,12 @@
 # include <iostream>
 # include <string>
+
 int main(int argc, char** argv) {
     int x = -10;
     float y = 0.3f;
     double z = 0.54444444444;
 
-    bool verdade = true;
+    bool verdade = true; //teste
     char letra = 's';
     char letras[] = "wellinton8"; //posso botar quantos eu quiser
     char nums[4] = "123"; //tem que ser 1 a mais
